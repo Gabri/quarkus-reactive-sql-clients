@@ -1,5 +1,12 @@
 # quarkus-reactive-sql-clients
 
+## Note
+Inspiring from `Quarkus Reactive SQL Clients with PostgreSQL | Quarkus Tutorial | QUARKUS | Reactive | Mutiny`
+https://youtu.be/igjMjFOHyK8
+
+---
+
+
 This project uses Quarkus, the Supersonic Subatomic Java Framework.
 
 If you want to learn more about Quarkus, please visit its website: https://quarkus.io/ .
